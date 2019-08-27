@@ -18,6 +18,7 @@ d) Print the 3rd element.
 Create a function that has a loop that quits with ‘q’. If the user doesn't enter 'q', ask them to input another string.
 
 ### Problem 3:
+IGNORE NUMBER 3 <---------------------------
 Create a function that contains a collection of information for the following. After you create the collection do the instructions below that.
 ```
 Jonathan/John
