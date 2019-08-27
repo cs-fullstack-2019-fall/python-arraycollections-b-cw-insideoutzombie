@@ -48,16 +48,6 @@ def hardCode():
     arrayForProblem5 = []
     userInput1 = int(input("Number here "))
 
-# def problem3():
-#     variableBelow()
-#
-# def variableBelow():
-#     listNames = ["John", "Paul", "George", "Pete"]
-#     print(listNames[3])
-#     listNames[3]="Ringo"
-#     print(listNames)
-#     listNames.append("Yoko")
-#     print(listNames)
 
 def main():
     # problem1()
